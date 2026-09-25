@@ -1,0 +1,18 @@
+# Sensitive / private assessment material
+private/
+raw/
+*.hash
+*.pot
+*.pdf.original
+*Locked*PDF*.pdf
+*decrypted*.pdf
+*.ova
+*.pcap
+.env
+*.log
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
